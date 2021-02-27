@@ -1,4 +1,4 @@
-# scf_epb2
+# epb2
 
 Assignment:
 
